@@ -1,0 +1,16 @@
+ul,
+ul > li {
+  list-style: none;
+}
+
+.card {
+  border: 1px solid gray;
+  text-align: center;
+  margin: 0 auto;
+  width: calc(50% - 4px);
+}
+
+.avaloniaui {
+  background-color: #8b44ac;
+  color: #fff;
+}
