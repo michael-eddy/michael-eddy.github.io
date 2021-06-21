@@ -3,6 +3,12 @@ ul > li {
   list-style: none;
 }
 
+.desc > p {
+  font-size: 12px;
+  margin: 0px !important;
+  color: gray;
+}
+
 .card {
   border: 1px solid gray;
   text-align: center;
