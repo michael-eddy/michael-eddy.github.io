@@ -20,6 +20,10 @@ ul > li {
   margin-top: 12px;
 }
 
+.card:last-of-type {
+  margin-bottom: 24px;
+}
+
 .card > p {
   margin: 0 !important;
 }
