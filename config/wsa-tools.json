@@ -1,0 +1,15 @@
+{
+    "main": 1,
+    "second": 1,
+    "fix": 2,
+    "urls": [
+        {
+            "platform": "arm64",
+            "url": ""
+        },
+        {
+            "platform": "x64",
+            "url": ""
+        }
+    ]
+}
