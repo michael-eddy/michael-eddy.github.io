@@ -5,11 +5,13 @@
     "urls": [
         {
             "platform": "arm64",
-            "url": ""
+            "url": "",
+            "ext": "exe"
         },
         {
             "platform": "x64",
-            "url": ""
+            "url": "",
+            "ext": "exe"
         }
     ]
 }
