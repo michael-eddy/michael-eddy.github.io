@@ -1,18 +1,18 @@
 {
     "major": 1,
     "minor": 2,
-    "build": 0,
-    "enMessage": "",
-    "chMessage": "",
+    "build": 1,
+    "enMessage": "Fix crash issues / APK file double-click, right-click menu installation",
+    "chMessage": "修复崩溃问题 / 加入APK文件双击、右键菜单安装",
     "urls": [
         {
             "platform": "arm64",
-            "url": "",
+            "url": "https://wwa.lanzoui.com/iQ9Nwwnrqzi",
             "ext": "exe"
         },
         {
             "platform": "x64",
-            "url": "",
+            "url": "https://wwa.lanzoui.com/i8V3dwnrkpc",
             "ext": "exe"
         }
     ]
