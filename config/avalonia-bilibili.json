@@ -1,0 +1,23 @@
+{
+    "major": 1,
+    "minor": 0,
+    "build": 1,
+    "message": "",
+    "urls": [
+        {
+            "platform": "arm64",
+            "url": "",
+            "ext": "exe"
+        },
+        {
+            "platform": "win-x64",
+            "url": "",
+            "ext": "exe"
+        },
+        {
+            "platform": "win-x86",
+            "url": "",
+            "ext": "exe"
+        }
+    ]
+}
