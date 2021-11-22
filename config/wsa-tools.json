@@ -1,18 +1,18 @@
 {
     "major": 1,
     "minor": 2,
-    "build": 3,
+    "build": 4,
     "enMessage": "Fix crash issues / APK file double-click, right-click menu installation /offline install wsa",
     "chMessage": "修复崩溃问题 / 加入APK文件双击、右键菜单安装 / 离线安装wsa包",
     "urls": [
         {
             "platform": "arm64",
-            "url": "https://wwa.lanzoui.com/iRmRqwq8tpa",
+            "url": "https://wwa.lanzoui.com/igAecwrgvsj",
             "ext": "exe"
         },
         {
             "platform": "x64",
-            "url": "https://wwa.lanzoui.com/iFI6wwq8ryh",
+            "url": "https://wwa.lanzoui.com/igS3rwrhyqb",
             "ext": "exe"
         }
     ]
