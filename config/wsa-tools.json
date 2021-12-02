@@ -1,18 +1,18 @@
 {
     "major": 1,
     "minor": 3,
-    "build": 0,
-    "enMessage": "new design",
-    "chMessage": "全新的界面设计",
+    "build": 1,
+    "enMessage": "new design，GPU drives install",
+    "chMessage": "全新的界面设计,GPU驱动安装",
     "urls": [
         {
             "platform": "arm64",
-            "url": "https://wwa.lanzoui.com/ilOpFx4qbji",
+            "url": "https://wwa.lanzoui.com/iuuUtx5kpfi",
             "ext": "exe"
         },
         {
             "platform": "x64",
-            "url": "https://wwa.lanzoui.com/iumq3x4qi9a",
+            "url": "https://wwa.lanzoui.com/i0VWax5kzxg",
             "ext": "exe"
         }
     ]
