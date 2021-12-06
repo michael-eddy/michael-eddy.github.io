@@ -1,18 +1,18 @@
 {
     "major": 1,
     "minor": 3,
-    "build": 1,
-    "enMessage": "new design，GPU drives install",
-    "chMessage": "全新的界面设计,GPU驱动安装",
+    "build": 2,
+    "enMessage": "Fix AMD GPU driver download failure",
+    "chMessage": "修复AMD GPU驱动下载失败问题",
     "urls": [
         {
             "platform": "arm64",
-            "url": "https://wwa.lanzoui.com/iuuUtx5kpfi",
+            "url": "https://wwa.lanzoui.com/i5QRmxby4if",
             "ext": "exe"
         },
         {
             "platform": "x64",
-            "url": "https://wwa.lanzoui.com/i0VWax5kzxg",
+            "url": "https://wwa.lanzoui.com/ib2iPxby57a",
             "ext": "exe"
         }
     ]
