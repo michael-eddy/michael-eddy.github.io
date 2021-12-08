@@ -1,9 +1,9 @@
 {
     "major": 1,
     "minor": 3,
-    "build": 2,
-    "enMessage": "Fix AMD GPU driver download failure",
-    "chMessage": "修复AMD GPU驱动下载失败问题",
+    "build": 3,
+    "enMessage": "Fix when install WSA auto exit",
+    "chMessage": "修复安装WSA自动退出问题",
     "urls": [
         {
             "platform": "arm64",
