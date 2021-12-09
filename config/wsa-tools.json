@@ -1,18 +1,18 @@
 {
     "major": 1,
     "minor": 3,
-    "build": 4,
-    "enMessage": "drives download process feedback",
-    "chMessage": "驱动下载进度条反馈",
+    "build": 5,
+    "enMessage": "drives download process feedback,fix install apk failed sometime",
+    "chMessage": "驱动下载进度条反馈，apk安装偶然失败修复",
     "urls": [
         {
             "platform": "arm64",
-            "url": "https://wwa.lanzoui.com/iGROOxem2md",
+            "url": "https://wwa.lanzoui.com/irfxbxfle6j",
             "ext": "exe"
         },
         {
             "platform": "x64",
-            "url": "https://wwa.lanzoui.com/iNfNtxemf7g",
+            "url": "https://wwa.lanzoui.com/iszBuxflefi",
             "ext": "exe"
         }
     ]
