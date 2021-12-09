@@ -1,18 +1,18 @@
 {
     "major": 1,
     "minor": 3,
-    "build": 3,
-    "enMessage": "Fix when install WSA auto exit",
-    "chMessage": "修复安装WSA自动退出问题",
+    "build": 4,
+    "enMessage": "drives download process feedback",
+    "chMessage": "驱动下载进度条反馈",
     "urls": [
         {
             "platform": "arm64",
-            "url": "https://wwa.lanzoui.com/ibbAuxdxo1e",
+            "url": "https://wwa.lanzoui.com/iGROOxem2md",
             "ext": "exe"
         },
         {
             "platform": "x64",
-            "url": "https://wwa.lanzoui.com/i8Vsvxdxosb",
+            "url": "https://wwa.lanzoui.com/iNfNtxemf7g",
             "ext": "exe"
         }
     ]
