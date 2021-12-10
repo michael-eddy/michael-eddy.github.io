@@ -6,27 +6,27 @@
     "urls": [
         {
             "platform": "win-arm64",
-            "url": "https://wwa.lanzoui.com/iIlboxa9psf",
+            "url": "https://wwa.lanzoui.com/ixD8exgrmpi",
             "ext": "exe"
         },
         {
             "platform": "win-x64",
-            "url": "https://wwa.lanzoui.com/iqD5yxa9o2d",
+            "url": "https://wwa.lanzoui.com/iRtGOxgrltg",
             "ext": "exe"
         },
         {
             "platform": "win-x86",
-            "url": "https://wwa.lanzoui.com/i5Ondxa9oxe",
+            "url": "https://wwa.lanzoui.com/iJxDrxgrnqf",
             "ext": "exe"
         },
         {
             "platform": "linux-arm",
-            "url": "https://wwa.lanzoui.com/ianQMxgac1c",
+            "url": "https://wwa.lanzoui.com/ig7z6xgrh7a",
             "ext": "deb"
         },
         {
             "platform": "linux-x64",
-            "url": "https://wwa.lanzoui.com/iIkLTxgacub",
+            "url": "https://wwa.lanzoui.com/iRol9xgrhtc",
             "ext": "exe"
         }
     ]
