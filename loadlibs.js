@@ -2,13 +2,13 @@
     var baseURL = getUrlRootPath();
     var version = "20201223";
     var jsArray = [
-        { key: 'common', value: baseURL + 'libs/common.js' },
-        { key: 'jquery', value: baseURL + "libs/jquery.min.js" },
-        { key: 'bootstrap', value: baseURL + "libs/bootstrap.min.js" }
+        { key: 'common', value: baseURL + 'lib/common.js' },
+        { key: 'jquery', value: baseURL + "lib/jquery.min.js" },
+        { key: 'bootstrap', value: baseURL + "lib/bootstrap.min.js" }
     ];
     var cssArray = [
-        { key: 'common', value: baseURL + "libs/common.css" },
-        { key: 'bootstrap', value: baseURL + "libs/bootstrap.min.css" }
+        { key: 'common', value: baseURL + "lib/common.css" },
+        { key: 'bootstrap', value: baseURL + "lib/bootstrap.min.css" }
     ];
     function loadJs(jsKeys) {
         if (arguments.length == 0) {
