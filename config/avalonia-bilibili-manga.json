@@ -21,7 +21,12 @@
         },
         {
             "platform": "linux-arm",
-            "url": "https://wwa.lanzoui.com/i8HCMyfyfve",
+            "url": "https://wwa.lanzoui.com/igV7wyg8jjg",
+            "ext": "deb"
+        },
+        {
+            "platform": "linux-arm64",
+            "url": "https://wwa.lanzoui.com/i7NQXyg8i6h",
             "ext": "deb"
         },
         {
