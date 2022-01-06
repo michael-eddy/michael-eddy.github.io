@@ -1,32 +1,42 @@
 {
     "major": 1,
     "minor": 1,
-    "build": 0,
-    "message": "",
+    "build": 1,
+    "message": "优化响应速度,支持Apple Chip",
     "urls": [
         {
             "platform": "win-arm64",
-            "url": "https://wwa.lanzoui.com/ixD8exgrmpi",
+            "url": "https://wwa.lanzoui.com/iZ2Fdyfznpc",
             "ext": "exe"
         },
         {
             "platform": "win-x64",
-            "url": "https://wwa.lanzoui.com/iRtGOxgrltg",
+            "url": "https://wwa.lanzoui.com/iWbG2yfzm8j",
             "ext": "exe"
         },
         {
             "platform": "win-x86",
-            "url": "https://wwa.lanzoui.com/iJxDrxgrnqf",
+            "url": "https://wwa.lanzoui.com/iypecyfzlhc",
             "ext": "exe"
         },
         {
             "platform": "linux-arm",
-            "url": "https://wwa.lanzoui.com/ig7z6xgrh7a",
+            "url": "https://wwa.lanzoui.com/i8HCMyfyfve",
             "ext": "deb"
         },
         {
             "platform": "linux-x64",
-            "url": "https://wwa.lanzoui.com/iRol9xgrhtc",
+            "url": "https://wwa.lanzoui.com/izicyyfygqf",
+            "ext": "exe"
+        },
+        {
+            "platform": "osx-arm",
+            "url": "https://wwa.lanzoui.com/i2DdCyg0f5a",
+            "ext": "deb"
+        },
+        {
+            "platform": "osx-x64",
+            "url": "https://wwa.lanzoui.com/iQMxryg0tla",
             "ext": "exe"
         }
     ]
