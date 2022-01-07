@@ -42,15 +42,15 @@ ul > li {
   background-color: #6f02b5;
 }
 
-.wpf {
+.wpf,
+.xamarin {
   height: 36px;
   color: #fff;
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #00A4EF;
+  background-color: #00a4ef;
 }
-
 
 .row {
   margin-left: 0 !important;
