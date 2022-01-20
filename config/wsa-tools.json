@@ -1,18 +1,18 @@
 {
     "major": 1,
     "minor": 4,
-    "build": 0,
-    "enMessage": "app list icon and name,filter user app only.fix virtwifi warning info.",
-    "chMessage": "app列表显示图标和名称，仅显示用户应用。修复virtwifi警告",
+    "build": 2,
+    "enMessage": "fix bug.",
+    "chMessage": "修复已知BUG",
     "urls": [
         {
             "platform": "arm64",
-            "url": "https://wwa.lanzoui.com/i9iZtxmg6kh",
+            "url": "https://wwa.lanzoui.com/iCPsxz0pxtc",
             "ext": "exe"
         },
         {
             "platform": "x64",
-            "url": "https://wwa.lanzoui.com/ihykNxmg5gh",
+            "url": "https://wwa.lanzoui.com/ik2Imz0puwh",
             "ext": "exe"
         }
     ]
