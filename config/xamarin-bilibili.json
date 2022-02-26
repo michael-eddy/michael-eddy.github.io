@@ -1,12 +1,12 @@
 {
     "major": 2,
-    "minor": 0,
-    "build": 2,
+    "minor": 1,
+    "build": 0,
     "message": "登录失败、番剧播放失败等问题修复",
     "urls": [
         {
             "platform": "all",
-            "url": "https://wwa.lanzoui.com/iJRRGyhdlxi",
+            "url": "https://wwa.lanzoui.com/i8ngz00nvvqh",
             "ext": "apk"
         }
     ]
