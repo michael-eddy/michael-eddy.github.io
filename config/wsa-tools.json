@@ -1,18 +1,19 @@
 {
     "major": 1,
     "minor": 4,
-    "build": 5,
+    "build": 6,
     "enMessage": "add wsa install location selection and reset WSA button",
     "chMessage": "新增WSA安装路径选择,重置WSA功能",
+    "ruMessage":"Добавлен выбор пути установки WSA, функция сброса WSA",
     "urls": [
         {
             "platform": "arm64",
-            "url": "https://wwa.lanzoui.com/ic3RC00m0cqb",
+            "url": "https://wwa.lanzoui.com/ieNU100tqqob",
             "ext": "exe"
         },
         {
             "platform": "x64",
-            "url": "https://wwa.lanzoui.com/iG8UJ00m0eeb",
+            "url": "https://wwa.lanzoui.com/ipxJs00tqogb",
             "ext": "exe"
         }
     ]
