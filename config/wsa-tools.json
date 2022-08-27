@@ -1,19 +1,19 @@
 {
     "major": 1,
     "minor": 5,
-    "build": 0,
+    "build": 1,
     "enMessage": "fix bugs",
     "chMessage": "修复部分问题",
     "ruMessage":"Исправлены некоторые проблемы",
     "urls": [
         {
             "platform": "arm64",
-            "url": "https://wwd.lanzouy.com/ivuiQ06oedve",
+            "url": "https://wwd.lanzouy.com/iIUIU0ad8w0j",
             "ext": "exe"
         },
         {
             "platform": "x64",
-            "url": "https://wwd.lanzouy.com/iMGna06oegne",
+            "url": "https://wwd.lanzouy.com/il4oM0ad8xrc",
             "ext": "exe"
         }
     ]
