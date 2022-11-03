@@ -1,29 +1,29 @@
 {
     "major": 0,
     "minor": 1,
-    "build": 7,
+    "build": 8,
     "message": "",
     "urls": [
         {
             "platform": "win-x64",
-            "url": "https://share.weiyun.com/tKqajSPj",
-            "pwd":"q4kpjy",
+            "url": "https://share.weiyun.com/SDVbrzo9",
+            "pwd":"dptjdr",
             "ext": "exe"
         },
         {
             "platform": "osx-x64",
-            "url": "https://share.weiyun.com/v1eZGYSh",
-            "pwd":"h3kftj",
+            "url": "https://share.weiyun.com/9wHIxTDl",
+            "pwd":"e3tub2",
             "ext": "gz"
         },
         {
             "platform": "linux-arm64",
-            "url": "https://wwd.lanzouy.com/izfAV0exmcwj",
+            "url": "https://wwd.lanzouy.com/iEUDm0f3z1sd",
             "ext": "deb"
         },
         {
             "platform": "linux-x64",
-            "url": "https://wwd.lanzouy.com/im3YI0exmcgd",
+            "url": "https://wwd.lanzouy.com/iZoao0f3z47a",
             "ext": "deb"
         }
     ]
