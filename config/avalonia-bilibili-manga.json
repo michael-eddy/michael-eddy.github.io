@@ -1,47 +1,47 @@
 {
     "major": 1,
     "minor": 2,
-    "build": 0,
+    "build": 2,
     "message": "优化响应速度,修复已知问题",
     "urls": [
         {
             "platform": "win-arm64",
-            "url": "https://wwd.lanzouy.com/iEBHb06r34ja",
+            "url": "https://wwd.lanzouy.com/ioVrU0fjyjeh",
             "ext": "exe"
         },
         {
             "platform": "win-x64",
-            "url": "https://wwd.lanzouy.com/if2y806r3cba",
+            "url": "https://wwd.lanzouy.com/isxaO0fjyrcd",
             "ext": "exe"
         },
         {
             "platform": "win-x86",
-            "url": "https://wwd.lanzouy.com/iGE1v06r3i0f",
+            "url": "https://wwd.lanzouy.com/iUzhE0fjywab",
             "ext": "exe"
         },
         {
             "platform": "linux-arm",
-            "url": "https://wwd.lanzouy.com/iG1to06r2m4h",
+            "url": "https://wwd.lanzouy.com/iWwE10fjy56f",
             "ext": "deb"
         },
         {
             "platform": "linux-arm64",
-            "url": "https://wwd.lanzouy.com/i2Xjw06r2mbe",
+            "url": "https://wwd.lanzouy.com/iKvS00fjy7ij",
             "ext": "deb"
         },
         {
             "platform": "linux-x64",
-            "url": "https://wwd.lanzouy.com/imZNh06r2mjc",
-            "ext": "exe"
+            "url": "https://wwd.lanzouy.com/if1Uj0fjyc0b",
+            "ext": "deb"
         },
         {
             "platform": "osx-arm64",
-            "url": "https://wwd.lanzouy.com/iG0ca06r2ndc",
+            "url": "https://wwd.lanzouy.com/ionbA0fjy44h",
             "ext": "gz"
         },
         {
             "platform": "osx-x64",
-            "url": "https://wwd.lanzouy.com/iMeVR06r2nod",
+            "url": "https://wwd.lanzouy.com/iUkwi0fjygyj",
             "ext": "gz"
         }
     ]
