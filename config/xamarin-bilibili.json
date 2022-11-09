@@ -1,12 +1,12 @@
 {
     "major": 2,
-    "minor": 1,
-    "build": 8,
+    "minor": 2,
+    "build": 0,
     "message": "修复若干个BUG",
     "urls": [
         {
             "platform": "all",
-            "url": "https://wwd.lanzouy.com/iBbK60f3xnrc",
+            "url": "https://wwd.lanzouy.com/iPGQg0f7vire",
             "ext": "apk"
         }
     ]
