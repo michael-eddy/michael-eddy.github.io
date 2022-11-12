@@ -6,24 +6,24 @@
     "urls": [
         {
             "platform": "win-x64",
-            "url": "https://share.weiyun.com/Nd1lLE2d",
-            "pwd": "t6vuhn",
+            "url": "https://share.weiyun.com/MkC3sBfY",
+            "pwd": "mq3yfa",
             "ext": "exe"
         },
         {
             "platform": "osx-x64",
-            "url": "https://share.weiyun.com/ryfcq5MQ",
-            "pwd": "epat6q",
+            "url": "https://share.weiyun.com/tpomd4sQ",
+            "pwd": "rqy5m4",
             "ext": "gz"
         },
         {
             "platform": "linux-arm64",
-            "url": "https://wwd.lanzouy.com/i6knf0fssw6f",
+            "url": "https://wwd.lanzouy.com/iBeYA0ft1eej",
             "ext": "deb"
         },
         {
             "platform": "linux-x64",
-            "url": "https://wwd.lanzouy.com/iYGh20fssx9e",
+            "url": "https://wwd.lanzouy.com/ie8dg0ft1g5c",
             "ext": "deb"
         }
     ]
