@@ -1,42 +1,42 @@
 {
     "major": 1,
     "minor": 3,
-    "build": 0,
+    "build": 1,
     "message": "优化响应速度,修复已知问题",
     "urls": [
         {
             "platform": "win-arm64",
-            "url": "https://wwd.lanzouy.com/iqUZr0g2bvcd",
+            "url": "https://wwd.lanzouy.com/iCode0go8xuh",
             "ext": "exe"
         },
         {
             "platform": "win-x64",
-            "url": "https://wwd.lanzouy.com/ijcA10g2bwuh",
+            "url": "https://wwd.lanzouy.com/ifhh80go93be",
             "ext": "exe"
         },
         {
             "platform": "win-x86",
-            "url": "https://wwd.lanzouy.com/i1fq90g2byfe",
+            "url": "https://wwd.lanzouy.com/iHAu10go9a0f",
             "ext": "exe"
         },
         {
             "platform": "linux-arm64",
-            "url": "https://wwd.lanzouy.com/iXfS10g2bh1i",
+            "url": "https://wwd.lanzouy.com/iU9p70go8b6b",
             "ext": "deb"
         },
         {
             "platform": "linux-x64",
-            "url": "https://wwd.lanzouy.com/iWlnv0g2bikd",
+            "url": "https://wwd.lanzouy.com/iFERp0go8hhi",
             "ext": "deb"
         },
         {
             "platform": "osx-arm64",
-            "url": "https://wwd.lanzouy.com/ieA4x0g2blkb",
+            "url": "https://wwd.lanzouy.com/ixdmd0go8mub",
             "ext": "gz"
         },
         {
             "platform": "osx-x64",
-            "url": "https://wwd.lanzouy.com/iEdVE0g2bnzi",
+            "url": "https://wwd.lanzouy.com/isPMx0go8stg",
             "ext": "gz"
         }
     ]
