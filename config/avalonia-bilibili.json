@@ -12,23 +12,17 @@
         },
         {
             "platform": "win-arm64",
-            "url": "https://wwai.lanzouy.com/iQrFU0njy3bg",
+            "url": "https://wwai.lanzouy.com/iK6xG0nnfxch",
             "ext": "exe"
         },
         {
-            "platform": "osx-x64",
-            "url": "#",
-            "pwd": "#",
-            "ext": "gz"
-        },
-        {
             "platform": "linux-arm64",
-            "url": "https://wwai.lanzouy.com/ivfsb0njxcqj",
+            "url": "https://wwai.lanzouy.com/iK6xG0nnfxch",
             "ext": "deb"
         },
         {
             "platform": "linux-x64",
-            "url": "https://wwai.lanzouy.com/icBQq0njxtmh",
+            "url": "https://wwai.lanzouy.com/ihbRO0nnjjkf",
             "ext": "deb"
         }
     ]
